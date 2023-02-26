@@ -37,7 +37,7 @@ for i in ss5:
     else:
         print(i,end=" ")
 print("\n")
-a=int(input('enter in your in hart ♥ name length: '))
+a=int(input('enter your thinking ♥ name length: '))
 ss=[]
 for i in range(a):
     print("enter your name",(i+1),'letter ✉ row:')
